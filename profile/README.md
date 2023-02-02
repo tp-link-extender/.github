@@ -1,2 +1,2 @@
-# .github-private
-lmao
+# Mercury
+Meurcry
