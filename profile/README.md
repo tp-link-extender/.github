@@ -1,2 +1,2 @@
-# Mercury
-Meurcry
+# Mercury 2
+Mercry
