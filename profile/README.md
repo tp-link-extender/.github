@@ -1,3 +1,3 @@
-# Mercury Core
+# Tp link extender
 
-We make [Mercury Core](https://github.com/tp-link-extender/MercuryCore)
+Development of the Mercury Suite of tools, including [Mercury Core](https://github.com/tp-link-extender/MercuryCore)
